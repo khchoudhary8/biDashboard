@@ -1,4 +1,4 @@
-# biDashboard
+# Super Store Sales Dashboard
 
 ## Step 1: Import Data
 
@@ -18,6 +18,9 @@ Here I has used a superstore sales data which compromises of 23 columns and 999+
 
 ## Dashboard
 
+
+ <img src="https://github.com/khchoudhary8/biDashboard/assets/76583677/ee60c211-0ad8-497b-8380-7242a2959ddc.jpg" width="780" height="400">  
+ <img src="https://github.com/khchoudhary8/biDashboard/assets/76583677/9fdd7062-ab3d-456b-ac4e-79c934b66860.jpg" width="180" height="400">
 
 ### Sheet 1 :
 
